@@ -73,3 +73,7 @@ Vas a ver tu árbol dibujado y comparado contra el diagrama objetivo del taller,
 - No edites `taller/pasos.json` ni `.github/` — ahí vive la validación automática.
 - Usa `--no-ff` en los dos merges obligatorios; si no, git puede hacer fast-forward y no queda un commit de merge que se pueda validar.
 - Si un commit quedó mal escrito, corrígelo con `git commit --amend` (si es el último) o `git rebase -i` (si es uno anterior) y vuelve a hacer push; no hagas un commit nuevo solo para "arreglar el mensaje".
+
+# Mi portafolio
+
+Sitio personal donde muestro mis proyectos y como contactarme.
